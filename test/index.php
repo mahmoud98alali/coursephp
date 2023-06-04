@@ -1,8 +1,9 @@
 <?php
 
 $name = "Mahmoud";
+$age = 12;
 
- echo "Are you". " "  .   $name; 
+ echo "Are you". " "  . "$age ".  $name; 
 
 
 ?>
